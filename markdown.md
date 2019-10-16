@@ -1,17 +1,20 @@
-# A Blog by Alina and Estelle
+# A Blog by<span style="color:lightblue">Alina</span> and<span style="color:lightblue"> Estelle
 
-## Content
+
+![Picture of Portland](https://psmag.com/.image/t_share/MTI3NTgxNjU0ODMwMjgwNjc0/portland-downtown.jpg)
+
+## <span style="color:pink">Content</span>
 
 * Today
 * Favorite Food
 * Favorite Place
 
-### Today
+### <span style="color:pink">Today</span>
 
 Wednesday October 16th
-> We're writing our first Markdown page. How fun!
+> We're writing our **first** Markdown page. How fun!
 
-### Favorite Food
+### <span style="color:pink">Favorite Food</span>
 
 #### Alina Beshtea
 * Chocolate Cookie
@@ -25,7 +28,7 @@ Wednesday October 16th
 * Salad
 
 
-### Favorite Places
+### <span style="color:pink">Favorite Places</span>
 
 We both like: <br>
 1. Portland
